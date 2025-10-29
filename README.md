@@ -10,7 +10,7 @@ It allows for analysis by **production line** and **product type**, with daily t
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshots/dashboard_full.png)
 
 ---
 
