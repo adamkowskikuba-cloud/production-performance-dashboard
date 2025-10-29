@@ -14,10 +14,6 @@ It allows for analysis by **production line** and **product type**, with daily t
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ⚙️ Tools & Technologies
 - **Power BI Desktop**
 - **Microsoft Excel** (data source)
@@ -32,6 +28,13 @@ which required adjustments for **English locale compatibility**
 
 ---
 
+## 💡 Future Improvements
+
+- Add automatic Power Query transformations for locale adjustments  
+- Connect directly to a live production database  
+- Include trend forecasting and anomaly detection visuals
+  
 ## 📈 Author
+
 **Jakub Adamkowski**  
 [GitHub Profile](https://github.com/adamkowskikuba-cloud)
